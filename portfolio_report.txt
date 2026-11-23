@@ -1,0 +1,10 @@
+STOCK PORTFOLIO REPORT
+======================
+
+Stock: AAPL, Quantity: 200, Price: $180, Investment: $36000
+Stock: TSLA, Quantity: 300, Price: $250, Investment: $75000
+Stock: GOOGL, Quantity: 400, Price: $140, Investment: $56000
+Stock: MSFT, Quantity: 500, Price: $400, Investment: $200000
+Stock: AMZN, Quantity: 600, Price: $190, Investment: $114000
+
+Total Investment: $481000
